@@ -14,6 +14,7 @@
         <input type="number" id="inputHeight" name="height" min="1" value="10">
         Grid Width:
         <input type="number" id="inputWidth" name="width" min="1" value="10">
+        <!-- Added an onclick event to the submit button -->
         <input type="submit" onclick="makeGrid(event)">
     </form>
 
@@ -21,6 +22,7 @@
     <input type="color" id="colorPicker">
 
     <h2>Design Canvas</h2>
+    <!-- Added an onclick event to the entire table -->
     <table id="pixelCanvas" onclick="colorCell(event)"></table>
 
     <script src="designs.js"></script>
