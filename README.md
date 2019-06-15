@@ -2,8 +2,13 @@
 
 ## Table of Contents
 
+* [Introduction](#introduction)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+
+## Introduction
+
+This simple game where you color cells. This is part of Udacity IPNd 
 
 ## Instructions
 
